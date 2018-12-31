@@ -1,4 +1,4 @@
-# dudetopia
+# 3js pyramids!
 
 to run, write on terminal
 
