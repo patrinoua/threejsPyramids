@@ -1,4 +1,4 @@
-# 3js pyramids!
+# threejs pyramids!
 
 to run, write on terminal
 
